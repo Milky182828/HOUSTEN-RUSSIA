@@ -2,6 +2,6 @@
 {"name":"cache2","id":1,"url":"http://lekomcua.beget.tech/ch.zip","version":2},
 {"name":"cache3","id":2,"url":"http://lekomcua.beget.tech/ch.zip","version":2},
 {"name":"cache4","id":3,"url":"http://lekomcua.beget.tech/ch.zip","version":2}, 
-{"name":"client_apk","id":4,"url":"http://lekomcua.beget.tech/client1.zip","version":15},
-{"name":"client_standard_apk","id":5,"url":"http://lekomcua.beget.tech/client1.zip","version":15},
+{"name":"client_apk","id":4,"url":"http://lekomcua.beget.tech/client1.zip","version":20},
+{"name":"client_standard_apk","id":5,"url":"http://lekomcua.beget.tech/client1.zip","version":20},
 {"name":"forSAMP","id":6,"url":"http://lekomcua.beget.tech/client1.zip","version":9}]
