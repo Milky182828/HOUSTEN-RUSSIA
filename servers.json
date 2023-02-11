@@ -2,7 +2,7 @@
     {
       "color": "ffa500",
       "dopname": "(X2 акция)",
-      "maxonline": 1000,
+      "maxonline": 100,
       "name": "STARK RP",
       "online": 15,
       "server_status": true,
@@ -11,10 +11,10 @@
    {
       "color": "fff000",
       "dopname": "Тестовый сервер",
-      "maxonline": 1000,
+      "maxonline": 100,
       "name": "STARK RP [TEST]",
       "online": 0,
-      "server_status": true,
+      "server_status": false,
       "server_num": "2"
     }
 ]
