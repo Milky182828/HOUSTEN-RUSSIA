@@ -3,18 +3,9 @@
       "color": "ffa500",
       "dopname": "(X2 акция)",
       "maxonline": 100,
-      "name": "STARK RP",
-      "online": 15,
+      "name": "STARK MOBILE | SERVER 1",
+      "online": 13,
       "server_status": true,
       "server_num": "1"
-    },
-    {
-      "color": "ffa500",
-      "dopname": "(X2 акция)",
-      "maxonline": 100,
-      "name": "STARK TEST",
-      "online": 1,
-      "server_status": true,
-      "server_num": "2"
     }
 ]
