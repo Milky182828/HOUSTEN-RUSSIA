@@ -13,7 +13,7 @@
   "apk": {
     "version": 330,
     "str": "3.2.4",
-    "path": "apk/samp_330_050223_0649.apk",
+    "path": "apks/samp1.apk",
     "auto_update": true,
     "manual_update": false,
     "manual_update_url": ""
