@@ -2,7 +2,7 @@
   "URL_HOST": "https://igta-online.cdnreact.xyz/SAMPNEW/",
   "URL_HOST2": "http://onlinerp.mimas.feralhosting.com/",
   "URL_UPDATE": "https://online-launcher.com/SAMPNEW_V2/update.json",
-  "URL_NEWS": "https://online-launcher.com/SAMPNEW_V2/news.json",
+  "URL_NEWS": "https://raw.githubusercontent.com/Milky182828/HOUSTEN-RUSSIA/main/onlinerp/news.json",
   "URL_HELP": "https://online-launcher.com/SAMPNEW_V2/help.json",
   "URL_CONFIG": "https://online-launcher.com/SAMPNEW_V2/config/samp_settings.ini",
   "URL_ONLINE_API": "https://api.gta-mobile.ru/oldAPI/online_api.php",
