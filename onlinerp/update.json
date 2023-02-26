@@ -3,32 +3,27 @@
     {
       "id": 0,
       "min_version": 0,
-      "max_version": 400,
+      "max_version": 313,
       "title": "Уведомление",
-      "text": "Технические работы, вход в игру временно не доступен в связи с установкой Зимнего Обновления на сервера.",
-      "button": "Закрыть",
-      "button_url": "quit"
+      "text": "Тестовый клиент временно недоступен для игры.",
+      "button": "",
+      "button_url": ""
     }
   ],
   "apk": {
-    "version": 330,
-    "str": "3.2.4",
-    "path": "apks/samp3.apk",
+    "version": 326,
+    "str": "3.1.2 test #5",
+    "path": "apk/samptest_326_291222_0304.apk",
     "auto_update": true,
     "manual_update": false,
-    "manual_update_url": ""
+    "manual_update_url": "https://www.google.com/"
   },
   "archive": {
-    "path": "cache/12/cache12.7z.001",
-    "path2": "cache/12/cache12.7z.002",
+    "path": "cache/cache.7z.001",
+    "path2": "cache/cache.7z.002",
     "size": 2147483648
   },
   "files": [
-    {
-      "name": "samp_settings.ini",
-      "path": "files/samp_settings.ini",
-      "size": 1
-    },
     {
       "name": ".custom",
       "path": "files/.custom",
@@ -42,12 +37,12 @@
     {
       "name": ".data",
       "path": "files/.data",
-      "size": 10548299
+      "size": 10548205
     },
     {
       "name": ".mods",
       "path": "files/.mods",
-      "size": 366704216
+      "size": 366626392
     },
     {
       "name": ".nomedia",
