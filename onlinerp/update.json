@@ -11,9 +11,9 @@
     }
   ],
   "apk": {
-    "version": 331,
-    "str": "1.0",
-    "path": "apks/samp1.apk",
+    "version": 332,
+    "str": "1.1",
+    "path": "apks/samp2.apk",
     "auto_update": true,
     "manual_update": false,
     "manual_update_url": ""
