@@ -25,6 +25,11 @@
   },
   "files": [
     {
+      "name": "samp_settings.ini",
+      "path": "files/samp_settings.ini",
+      "size": 1
+    },
+    {
       "name": ".custom",
       "path": "files/.custom",
       "size": 363382640
