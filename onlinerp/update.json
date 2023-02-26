@@ -14,7 +14,7 @@
     "version": 332,
     "str": "1.1",
     "path": "apks/samp2.apk",
-    "auto_update": true,
+    "auto_update": false,
     "manual_update": false,
     "manual_update_url": ""
   },
