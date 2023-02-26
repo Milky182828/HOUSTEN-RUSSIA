@@ -11,8 +11,8 @@
     }
   ],
   "apk": {
-    "version": 332,
-    "str": "1.1",
+    "version": 330,
+    "str": "3.2.4",
     "path": "apks/samp3.apk",
     "auto_update": true,
     "manual_update": false,
