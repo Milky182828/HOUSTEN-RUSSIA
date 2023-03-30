@@ -1,9 +1,9 @@
 {
     "clientVersionCode": 101,
     "gameFilesVersionCode": 109,
-    "URL_GAME_FILES" : "http://katod93z.beget.tech/game.zip",
-    "URL_GAME_FILES_UPD" : "http://katod93z.beget.tech/files_upd.zip",
-    "URL_GAME_FILES_UPDATE" : "http://katod93z.beget.tech/files_graph.zip",
+    "URL_GAME_FILES" : "https://san-web.host/game.zip",
+    "URL_GAME_FILES_UPD" : "https://san-web.host",
+    "URL_GAME_FILES_UPDATE" : "https://san-web.host",
     "URL_VK": "https://vk.com/stark.mobile",
     "URL_DISCORD": "https://vk.com/stark.mobile",
     "URL_YOUTUBE": "https://vk.com/stark.mobile",
