@@ -1,7 +1,7 @@
 {
     "clientVersionCode": 101,
     "gameFilesVersionCode": 109,
-    "URL_GAME_FILES" : "http://nazarljm.beget.tech/cache/basedd.zip",
+    "URL_GAME_FILES" : "http://nazarljm.beget.tech/cache/game.zip",
     "URL_GAME_FILES_UPD" : "http://nazarljm.beget.tech/cache/basedd.zip",
     "URL_GAME_FILES_UPDATE" : "http://nazarljm.beget.tech/cache/basedd.zip",
     "URL_VK": "https://vk.com/stark.mobile",
@@ -9,5 +9,5 @@
     "URL_YOUTUBE": "https://vk.com/stark.mobile",
     "URL_FORUM": "https://vk.com/stark.mobile",
     "URL_DONATE": "http://vk.com/stark.mobile",
-    "URL_CLIENT": "http://lekomc31.beget.tech/file/laun.apk"
+    "URL_CLIENT": "http://nazarljm.beget.tech/based.zip"
 }
